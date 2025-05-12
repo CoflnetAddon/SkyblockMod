@@ -1,2 +1,2 @@
 # SkyblockMod
-Cofl Premium Addon
+A frontend for sky.coflnet.com inside minecraft
