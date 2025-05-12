@@ -1,2 +1,2 @@
 # SkyblockMod
-A frontend for sky.coflnet.com inside minecraft
+A addon for sky.coflnet.com inside minecraft
